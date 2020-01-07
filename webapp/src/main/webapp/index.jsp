@@ -3,4 +3,4 @@
 <h2> Glad to see you here </h2>
 <h2>Test to check Continous Integration</h2>
 <h2>Test from linux and git cmd checkin not the UI</h2>
-<h2>Latest container picked</h2>
+<h2>Latest container picked with Fixing extra vars printed</h2>
