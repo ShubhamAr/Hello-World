@@ -1,1 +1,2 @@
 Its another file to test merge
+A test new
