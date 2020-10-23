@@ -1,2 +1,6 @@
 Its another file to test merge
+
 Another Test branch
+
+A test new
+
